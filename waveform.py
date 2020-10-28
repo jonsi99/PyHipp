@@ -2,6 +2,7 @@ import DataProcessingTools as DPT
 import matplotlib.pyplot as plt
 import hickle as hkl
 import os
+import numpy as np
 
 class Waveform(DPT.DPObject):
     # Please change the class name according to your needs
